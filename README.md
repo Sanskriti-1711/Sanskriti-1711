@@ -1,4 +1,4 @@
-[![MasterHead](https://7wdata.be/wp-content/uploads/2020/11/78723aiml.png)]
+![MasterHead](https://7wdata.be/wp-content/uploads/2020/11/78723aiml.png)
 <h1 align="center">Hello 👋, I'm Sanskriti!</h1>
 <h3 align="center">A passionate AI/ML Developer & Cybersecurity Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
