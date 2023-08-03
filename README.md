@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **R Language**
 
-- 👨‍💻 All of my projects are available at [https://sanskriti-1711.github.io/Sanskriti-portfolio/](https://sanskriti-1711.github.io/Sanskriti-portfolio/)
+- 👨‍💻 Discover more about me at [https://sanskriti-1711.github.io/Sanskriti-portfolio/](https://sanskriti-1711.github.io/Sanskriti-portfolio/)
 
 - 💬 Ask me about **Python, ML, DL, Ethical Hacking**
 
